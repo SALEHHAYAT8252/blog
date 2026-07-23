@@ -89,7 +89,7 @@ export function Sidebar() {
         <div className="border-t border-white/10 p-4">
           <div className={`flex items-center gap-3 ${sidebarCollapsed ? 'lg:justify-center' : ''}`}>
             <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-gold text-xs font-semibold text-ink">
-              SN
+              DK
             </div>
             <div className={`min-w-0 ${sidebarCollapsed ? 'lg:hidden' : ''}`}>
               <p className="truncate text-sm font-medium">Dildar Khan</p>
