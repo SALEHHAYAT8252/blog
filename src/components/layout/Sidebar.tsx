@@ -92,7 +92,7 @@ export function Sidebar() {
               SN
             </div>
             <div className={`min-w-0 ${sidebarCollapsed ? 'lg:hidden' : ''}`}>
-              <p className="truncate text-sm font-medium">Sara Nasser</p>
+              <p className="truncate text-sm font-medium">Dildar Khan</p>
               <p className="truncate text-xs text-paper/50">Editor</p>
             </div>
           </div>
