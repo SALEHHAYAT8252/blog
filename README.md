@@ -3,6 +3,8 @@
 A fully responsive Blog CMS admin UI built with React 18, TypeScript, Vite, Tailwind CSS v4,
 React Router, TanStack Query, Zustand, and React Hook Form + Zod.
 
+🔗 **Live demo:** [https://blog-cms-f9mo.onrender.com](https://blog-cms-f9mo.onrender.com)
+
 ## Setup
 
 ```bash
